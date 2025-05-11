@@ -38,7 +38,7 @@ class TrainAndTest():
         self.order_RLDQN = []
         self.Repeat_DRO = []
         self.Repeat_DQN = []
-        self.Repeat_RLDQN = []   #
+        self.Repeat_RLDQN = []   
 
 
     def Train(self):
