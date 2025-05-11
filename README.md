@@ -1,3 +1,5 @@
+Newsvendor Problems with Product Unbundling: An Approach Combining Robust Optimization with Deep Reinforcement Learning
+
 Link to paper: https://doi.org/10.1177/10591478251344225
 
 Abstract:
